@@ -1,4 +1,4 @@
-# flask rokok deteksi
+# flask gender and age detection
 add detection of image
 add more upstream video realtime using cpu in web mode
 
